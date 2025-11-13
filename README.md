@@ -25,7 +25,6 @@ The PCBs were designed with the Eagle software. Design files can be found in the
 <img width="589" height="605" alt="image" src="https://github.com/user-attachments/assets/ac78052a-1856-4830-af85-cac9ccb240a8" />
 <img width="681" height="710" alt="image" src="https://github.com/user-attachments/assets/e82562e8-54bb-497c-8ee9-ac73bdf87fb5" />
 <img width="2341" height="3053" alt="image" src="https://github.com/user-attachments/assets/eda9efbf-1b4e-436a-8d68-a1f9bb170199" />
-![CCF7A216-EF2B-4683-9BC4-1E84C31FAA4D_1_201_a](https://github.com/user-attachments/assets/a93e972b-9290-4694-b97c-4432ae898208)
-![A15155A0-6F4E-4CD3-9E8B-CC7C94B7AA87_1_201_a](https://github.com/user-attachments/assets/7d0ee1bf-19df-4a90-a397-73a444864596)
+<img width="895" height="935" alt="image" src="https://github.com/user-attachments/assets/6901566d-3cd8-4849-826d-a122ffe5cdf7" />
 <img width="492" height="429" alt="image" src="https://github.com/user-attachments/assets/39ee839f-96b1-4572-a380-e7ecc90c80a4" />
 
